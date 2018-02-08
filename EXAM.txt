@@ -1,0 +1,11 @@
+EXAM
+- [ ] Create a simple application where you'll need to input 3 values, name, last name and birth date (using a picker).
+- [ ] The application must be a user CRUDL, allowing me to add, edit, delete and list users (first name, last name, birth date).
+- [ ] Upload the finish application with everything required to the repository.
+CONSIDERATIONS
+- [ ] Time: 3 days.
+- [ ] Use a simple design, but responsive working at least on iPhone 5s, 8, 8+ and X, also on iPad Air 2.
+- [ ] All your code must be submitted to GitHub.
+- [ ] You can't use 3rd party framework or tools.
+- [ ] Please include any link/source you use to help yourself to solve this.
+- [ ] Use CoreData to store the data.
